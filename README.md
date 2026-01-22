@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-# Hi, I'm [Your Name]! 👋
+## Hi, I'm [Your Name]! 👋
 
-I'm a student at the University of Notre Dame studying [your major].
+##I'm a student at the University of Notre Dame studying [your major].
 
 ## About Me
 - 🎓 Currently taking Introduction to Data Science
