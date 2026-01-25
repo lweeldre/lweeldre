@@ -3,26 +3,19 @@
 I'm a student at the University of Notre Dame studying Economics and Data Science.
 
 ## About Me
+I am a Sophomore studying Economics at the University of Notre Dame with a strong interest in our armed forces, finance, and data science. I am a member of the Naval Reserve Officer Training Corps and will commission as an officer in the United States Navy in May of 2028. I have excellent leadership experience and have been given opportunities to lead my peers within my navy unit, academically, and athletically.
+
 - 🎓 Currently taking Introduction to Data Science
 - 🌱 Learning Python, pandas, and data visualization
-- 📫 How to reach me: lweeldre@nd.edu
+- 📫 How to reach me: lweeldre@nd.edu // (703)-593-4116
 
- Interests
-- [Add a few of your interests or hobbies]
+## Tools I have experience with
+- Python 💻
+- Java 📐
+- Stata 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
+## Education 🎓
+- University of Notre Dame, Class of 2028 🏫
+  - Major: Economics, Minor: Data Science
+- The Hights School, Class of 2024 🧮
 
-
-<!--
-**lweeldre/lweeldre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
