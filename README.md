@@ -17,7 +17,7 @@ I am a Sophomore studying Economics and Data Science at the University of Notre 
 ## Education 🎓
 - University of Notre Dame, Class of 2028 🏫
   - Major: Economics, Minor: Data Science
-- The Hights School, Class of 2024 🧮
+- The Heights School, Class of 2024 🧮
 
 ## Completed Projects 🗃️
 - [Data Science Portfolio](https://github.com/lweeldre/Weeldreyer-Data-Science-Portfolio)
