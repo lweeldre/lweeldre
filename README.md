@@ -8,6 +8,7 @@ I am a Sophomore studying Economics and Data Science at the University of Notre 
 - 🎓 Currently taking Introduction to Data Science
 - 🌱 Learning Python, pandas, and data visualization
 - 📫 How to reach me: lweeldre@nd.edu // (703)-593-4116
+- LinkedIn: [Lawson Weeldreyer](https://www.linkedin.com/in/lawson-weeldreyer/)
 
 ## Tools I have experience with
 - Python 💻
